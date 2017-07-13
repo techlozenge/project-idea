@@ -4,30 +4,51 @@
 
 ## Audience
 
-    Users of internet news sites and news aggregators.
+    Readers of internet news sites and news aggregators.
 
-## Description
+## Proposal
 
-    Create a (Chrome and/or Facebook?) plugin that will allow the user to right-click an article headline
-    or from within the article to use  Fact Check, Snopes, to verify if the article is legitmate or 
-    fake(-ish) news.
+    Create an application that will allow the user to select an article headline or from within the
+    article to use Politifact, (FactCheck and Snopes optionl)  the user to 
 
 ## Value Proposition
 
-    With the huge influx in fake news articles on the internet there is an enormous need
-    to verify whether or not something is real, fake, or if it falls somewhere in the spectrun of truth.
-    The initial release of this app will use Factcheck.org and Snopes.com to return information (articles
-    found on sources of truth?) to the user.
+    With the huge influx in fake news articles onto the internet there is an enormous need to provide
+    users with some capability of comparing a suspect article against similar articles from reputable
+    sources of truth. No application can judge whether or not something is true or false. This application
+    gives users a convenient way to judge for themselves the validity of questionable articles. 
 
 ## Technologies
 
     Bootstrap/CSS
     HTML/5
     JavaScript/Jquery
+    MySQL (or equivalent RDBMS)
 
-# Additional Information
+## Product Backlog
 
-    Creating a Chrome Extension
+    1. Frontend
+        a) Selection
+            i) 
+        b) Query
+            i)  
+
+    2. 
+        a) 
+
+    3. Backend
+        a) Database receives article information
+
+
+## Additional Information
+
+Snopes API: Snopes does not appear to have an API but it is possible to use Google
+
+FactCheck: 
+
+Politifact: API: http://static.politifact.com/api/v2apidoc.html
+
+Creating a Chrome Extension
 
     1. Creating Manifest. JSON:
 
