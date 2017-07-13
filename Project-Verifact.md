@@ -15,10 +15,11 @@
 
     With the huge influx in fake news articles onto the internet there is an enormous need
     to provide users with some capability of comparing a suspect article against similar 
-    articles from fact-checking sources. No application can judge whether or not something
-    is true or false. This application gives users an easy, convenient way to judge for 
-    themselves the validity of questionable articles. This plugin also contains a built-in 
-    history feature so that users can come back to past searches and their results for later referral.
+    articles culled from fact-checking sources. This plugin isn't meant to replace sites like Snopes 
+    or Factcheck.org but rather it complements them by providing the user with a easy, convenient 
+    way to judge for themselves the validity of questionable articles. Additionally, this plugin
+    also contains a built-in history feature so that users can come back to past searches and
+    their results for later referral.
 
 ## Technologies
 
