@@ -4,19 +4,20 @@
 
 ## Audience
 
-    Readers of internet news sites and news aggregators.
+    Users of internet news sites and news aggregators as well as social websites.
 
 ## Proposal
 
-    Create an application that will allow the user to select an article headline or from within the
-    article to use Politifact, (FactCheck and Snopes optionl)  the user to 
+    Create a Google Chrome plugin that provides users with the capability of comparing one article against similar articles found on fact-checking websites. 
 
 ## Value Proposition
 
     With the huge influx in fake news articles onto the internet there is an enormous need to provide
-    users with some capability of comparing a suspect article against similar articles from reputable
-    sources of truth. No application can judge whether or not something is true or false. This application
-    gives users a convenient way to judge for themselves the validity of questionable articles. 
+    users with some capability of comparing a suspect article against similar articles from fact-checking
+    sources. No application can judge whether or not something is true or false. This application
+    gives users an easy, convenient way to judge for themselves the validity of questionable articles.
+    It also contains a built-in history feature so that users can come back to past searches and their results 
+    for later referral.
 
 ## Technologies
 
@@ -68,7 +69,7 @@
         b)  Capability to store received search data for later retrival.
         c)  Capability to purge historical search data by date range or individual record
 
-## Additional Information
+## Fact-Checking Websites
 
 Politifact: API: http://static.politifact.com/api/v2apidoc.html
 
@@ -76,7 +77,7 @@ Snopes API: Snopes does not appear to have an API
 
 FactCheck: Factcheck.org does not appear to have an API
 
-Creating a Chrome Extension
+## Creating a Chrome Extension
 
     1. Creating Manifest. JSON:
 
