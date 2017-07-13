@@ -8,7 +8,14 @@
 
 ## Description
 
-    Create a (Chrome and/or Facebook?) plugin that will allow the user to right-click an article headline or right-click from within the article to use the Fact Check or Snopes to verify if the article is legitmate.
+    Create a (Chrome and/or Facebook?) plugin that will allow the user to right-click an article headline or from within the article to use the Fact Check, Snopes, or other source to verify if the article is legitmate
+    or fake(-ish) news.
+
+## Value Proposition
+
+    With the huge influx in fake news articles on the internet there is an enormous need
+    to verify whether or not something is real, fake, or if it falls somewhere in the spectrun of truth.
+    The initial release of this app will use Factcheck.org and Snopes.com to return information to the user.
 
 ## Technologies
 
