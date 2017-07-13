@@ -1,10 +1,10 @@
 ## Name 
 
- ⋅⋅⋅Verifact
+  ...Verifact
 
 ## Audience
 
- ⋅⋅⋅Users of internet news sites and aggregators 
+  ...Users of internet news sites and aggregators 
 
 ## Description
 
