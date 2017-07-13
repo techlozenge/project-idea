@@ -4,18 +4,20 @@
 
 ## Audience
 
-    Users of internet news sites and aggregators 
+    Users of internet news sites and new aggregators.
 
 ## Description
 
-    Create a (Chrome and/or Facebook?) plugin that will allow the user to right-click an article headline or from within the article to use the Fact Check, Snopes, or other source to verify if the article is legitmate
-    or fake(-ish) news.
+    Create a (Chrome and/or Facebook?) plugin that will allow the user to right-click an article headline
+    or from within the article to use  Fact Check, Snopes, to verify if the article is legitmate or 
+    fake(-ish) news.
 
 ## Value Proposition
 
     With the huge influx in fake news articles on the internet there is an enormous need
     to verify whether or not something is real, fake, or if it falls somewhere in the spectrun of truth.
-    The initial release of this app will use Factcheck.org and Snopes.com to return information to the user.
+    The initial release of this app will use Factcheck.org and Snopes.com to return information (articles
+    found on sources of truth?) to the user.
 
 ## Technologies
 
@@ -25,26 +27,28 @@
 
     JavaScript/Jquery
 
-## Creating a Chrome Extension
+# Additional Information
 
-1. Creating Manifest. JSON:
+    ## Creating a Chrome Extension
 
-    Every Chrome extension consists of, at minimum, a file called manifest.json, which defines the basics of your extension—its name, description, version number, what kind of extension it is the permissions it needs to run (e.g., what web sites it needs access to), and so on.
+    1. Creating Manifest. JSON:
 
-2. Content Scripts:
+        Every Chrome extension consists of, at minimum, a file called manifest.json, which defines the basics of your extension—its name, description, version number, what kind of extension it is the permissions it needs to run (e.g., what web sites it needs access to), and so on.
 
-    A content script is “a JavaScript file that runs in the context of web pages.” This means that a content script can interact with web pages that the browser visits. To inject the script, we need to tell our manifest.json file about it.
+    2. Content Scripts:
 
-3. Creating UI and implementing the logic:
+        A content script is “a JavaScript file that runs in the context of web pages.” This means that a content script can interact with web pages that the browser visits. To inject the script, we need to tell our manifest.json file about it.
 
-    There are several ways to create UI For your extensions, some of them are Browser Action, Page Action, Developer tools and Omnibox.
+    3. Creating UI and implementing the logic:
 
-4. Load your extension into Chrome/Testing:
+        There are several ways to create UI For your extensions, some of them are Browser Action, Page Action, Developer tools and Omnibox.
 
-    To load your extension in Chrome, open up "chrome://extensions/" in your browser and click “Developer mode” in the top right. Now click “Load unpacked extension…” and select the extension’s directory. You should now see your extension in the list.
+    4. Load your extension into Chrome/Testing:
 
-5. Getting your extension into the Chrome Web Store:
+        To load your extension in Chrome, open up "chrome://extensions/" in your browser and click “Developer mode” in the top right. Now click “Load unpacked extension…” and select the extension’s directory. You should now see your extension in the list.
 
-    Publish in the Chrome Web Store: https://developer.chrome.com/webstore/publish
+    5. Getting your extension into the Chrome Web Store:
 
-    Watch the video on how to build chrome extension: https://developer.chrome.com/extensions/getstarted
+        Publish in the Chrome Web Store: https://developer.chrome.com/webstore/publish
+
+        Watch the video on how to build chrome extension: https://developer.chrome.com/extensions/getstarted
