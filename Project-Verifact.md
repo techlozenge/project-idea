@@ -1,16 +1,16 @@
-# Name 
+## Name 
 
-Verifact
+ ⋅⋅⋅Verifact
 
-# Audience
+## Audience
 
-Users of internet news sites and aggregators 
+ ⋅⋅⋅Users of internet news sites and aggregators 
 
-# Description
+## Description
 
 Create a (Chrome and/or Facebook?) plugin that will allow the user to right-click an article headline or right-click from within the article to use the Fact Check or Snopes to verify if the article is legitmate.
 
-# Technologies
+## Technologies
 
 Bootstrap/CSS
 
@@ -18,7 +18,7 @@ HTML/5
 
 JavaScript/Jquery
 
-# Creating a Chrome Extension
+## Creating a Chrome Extension
 
 1. Creating Manifest. JSON:
 
