@@ -34,7 +34,7 @@
 
     Note: Data will be passed as JSON
 
-    1. View
+    1. View 
         a)  Add hook to browser right-click menu to add choice of Verifact
         b)  Create selection submenu below Verifact
             i)  Search For...
