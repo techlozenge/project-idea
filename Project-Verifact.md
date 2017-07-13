@@ -4,7 +4,7 @@
 
 ## Audience
 
-    Users of internet news sites and new aggregators.
+    Users of internet news sites and news aggregators.
 
 ## Description
 
@@ -22,14 +22,12 @@
 ## Technologies
 
     Bootstrap/CSS
-
     HTML/5
-
     JavaScript/Jquery
 
 # Additional Information
 
-    ## Creating a Chrome Extension
+    Creating a Chrome Extension
 
     1. Creating Manifest. JSON:
 
